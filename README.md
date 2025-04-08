@@ -34,17 +34,10 @@ Both datasets, each with over 6000 rows, were imported into Microsoft Power BI f
 
 ## Report
 The Power BI report provides interactive visualizations to explore the hospital data. Key features include:
-
 [![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Main_tab.png)]
-[![image](https://github.com/user-attachments/assets/4848e312-336f-49f8-a841-b4e40d4f8aec)]
-[![image](https://github.com/user-attachments/assets/b1f2424b-04d4-4584-84e9-e13f6224bf92)]
-- **Report:** [Report Link](https://app.powerbi.com/groups/me/reports/281bbaa4-a480-44f6-a4b4-6e24ed06059b/ReportSection3677eff0fed4e1434322?experience=power-bi)
-
-- **Geographical Distribution Map:** Visualizes hospital locations and patient distribution across different regions.
-**Department Visits Chart:** This chart displays the number of visits per department, highlighting high-traffic areas such as General Practice and Orthopedics.
-- **Visitor Gender Distribution Pie Chart:** Shows the gender breakdown of hospital visits, illustrating an equitable distribution.
-**Satisfaction Scores Chart:** This chart presents average satisfaction ratings for each department, aiding in assessing service quality.
-- **Profitability Analysis:** Provides a visual representation of the hospital's profitability and financial performance.
+[![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Doctors'_tab.png)]
+[![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Patients'_tab.png)]
+- **Report:** [Report Link](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Columbia%20Asia%20Hospital%20Analysis_Kiran_HD.pbix)
 
 ## Problem Statement
 The hospital sought key insights to:
@@ -83,9 +76,9 @@ Analyzing Columbia Asia Hospital's dataset has provided valuable insights into p
 ## Contact
 For any questions or further information, please contact:
 
-- **Name:** Muhammad Sahanwaj
-- **Email:** muhammadsahanwaj03@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/m-sahanwaj/)
+- **Name:** Kiran HD
+- **Email:** kiran.dharmaprakash@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kiran-hassan-dharmaprakash-065467250)
 
 ---
 
