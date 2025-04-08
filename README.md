@@ -34,9 +34,12 @@ Both datasets, each with over 6000 rows, were imported into Microsoft Power BI f
 
 ## Report
 The Power BI report provides interactive visualizations to explore the hospital data. Key features include:
-[![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Main_tab.png)]
-[![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Doctors'_tab.png)]
-[![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Patients'_tab.png)]
+
+![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Main_tab.png)
+
+![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Doctors'_tab.png)
+
+![image](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Patients'_tab.png)
 - **Report:** [Report Link](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/Columbia%20Asia%20Hospital%20Analysis_Kiran_HD.pbix)
 
 ## Problem Statement
