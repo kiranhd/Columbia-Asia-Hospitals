@@ -20,7 +20,7 @@ The project utilizes two primary datasets:
 - **Transactional Data:** Includes details on doctor-patient interactions such as patient race, age, appointment fees, and assigned doctors.
 - **Billing Data:** Contains comprehensive billing information including total bills, doctor names, patient IDs, and departments.
 
-Both datasets, each with over 6000 rows, were imported into Microsoft Power BI for analysis. Initial data transformation ensured cleanliness and relevance for in-depth analysis and actionable insights.
+Both datasets, each with over 9000 rows, were imported into Microsoft Power BI for analysis. Initial data transformation ensured cleanliness and relevance for in-depth analysis and actionable insights.
 
 ## Methodology
 **Analytical Methods:** Utilized Power BI for data analysis and visualization.
