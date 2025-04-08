@@ -1,4 +1,4 @@
-# Columbia Asia Hospital Analysis
+# Columbia Asia Hospital Data Analysis (Interactive Dashboard creation using Power BI)
 
 ## Table of Contents
 1. [Project Description](#project-description)
