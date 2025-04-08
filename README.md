@@ -1,5 +1,6 @@
 # Columbia Asia Hospital Data Analysis (Interactive Dashboard creation using Power BI)
 
+![Columbia_Asia logo](https://github.com/kiranhd/Columbia-Asia-Hospitals/blob/main/columbia-asia_photo.jpg)
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Data Overview](#data-overview)
